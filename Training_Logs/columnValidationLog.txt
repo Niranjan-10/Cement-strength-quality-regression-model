@@ -1,0 +1,102 @@
+2020-05-25/16:13:58		Column Length validation started !!
+2020-05-25/16:13:58		Error occured while moving the file :: [WinError 267] The directory name is invalid: 'Training_Raw_files_validated/Good_Raw/'
+2020-05-25/16:16:30		Column Length validation started !!
+2020-05-25/16:16:30		Error occured while moving the file :: [WinError 267] The directory name is invalid: 'Training_Raw_files_validated/Good_Raw/'
+2020-05-25/16:24:27		Column Length validation started !!
+2020-05-25/16:24:27		Error occured while moving the file :: [WinError 267] The directory name is invalid: 'Training_Raw_files_validated/Good_Raw/'
+2020-05-25/16:30:43		Column Length validation started !!
+2020-05-25/16:30:43		Error occured while moving the file :: [WinError 267] The directory name is invalid: 'Training_Raw_files_validated/Good_Raw/'
+2020-05-25/16:34:23		Column Length validation started !!
+2020-05-25/16:34:23		Error occured while moving the file :: [WinError 267] The directory name is invalid: 'Training_Raw_files_validated/Good_Raw/'
+2020-05-25/16:35:26		Column Length validation started !!
+2020-05-25/16:35:26		Error occured while moving the file :: [WinError 267] The directory name is invalid: 'Training_Raw_files_validated/Good_Raw/'
+2020-05-25/16:46:48		Column Length validation started !!
+2020-05-25/16:46:48		Error occured while moving the file :: [WinError 267] The directory name is invalid: 'Training_Raw_files_validated/Good_Raw/'
+2020-05-25/16:49:58		Column Length validation started !!
+2020-05-25/16:49:58		Error occured while moving the file :: [WinError 267] The directory name is invalid: 'Training_Raw_files_validated/Good_Raw/'
+2020-05-25/16:50:30		Column Length validation started !!
+2020-05-25/16:50:30		Error occured while moving the file :: [WinError 267] The directory name is invalid: 'Training_Raw_files_validated/Good_Raw/'
+2020-05-25/16:51:39		Column Length validation started !!
+2020-05-25/16:51:39		Error occured while moving the file :: [WinError 267] The directory name is invalid: 'Training_Raw_files_validated/Good_Raw/'
+2020-05-25/16:52:57		Column Length validation started !!
+2020-05-25/16:52:57		Error occured while moving the file :: [WinError 267] The directory name is invalid: 'Training_Raw_files_validated/Good_Raw/'
+2020-05-25/16:53:39		Column Length validation started !!
+2020-05-25/16:53:39		Error occured while moving the file :: [WinError 267] The directory name is invalid: 'Training_Raw_files_validated/Good_Raw/'
+2020-05-25/16:54:07		Column Length validation started !!
+2020-05-25/16:54:07		Error occured while moving the file :: [WinError 267] The directory name is invalid: 'Training_Raw_files_validated/Good_Raw/'
+2020-05-25/16:54:22		Column Length validation started !!
+2020-05-25/16:54:22		Error occured while moving the file :: [Errno 2] File Training_Raw_files_validated/Good_Raw/Bad_Raw does not exist: 'Training_Raw_files_validated/Good_Raw/Bad_Raw'
+2020-05-25/16:56:02		Column Length validation started !!
+2020-05-25/16:56:02		Error occured while moving the file :: [Errno 2] No such file or directory: 'Training_Raw_files_validated/Good_Raw/Good_Raw'
+2020-05-25/16:57:02		Column Length validation started !!
+2020-05-25/16:57:02		Column Length validation completed
+2020-05-25/16:59:04		Column Length validation started !!
+2020-05-25/16:59:04		Error occured while moving the file :: [WinError 267] The directory name is invalid: 'Training_Raw_files_validated/Good_Raw/'
+2020-05-25/17:06:08		Column Length validation started !!
+2020-05-25/17:06:08		Error occured while moving the file :: [WinError 267] The directory name is invalid: 'Training_Raw_files_validated/Good_Raw/'
+2020-05-25/17:09:27		Column Length validation started !!
+2020-05-25/17:09:27		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/17:09:27		Column Length validation completed
+2020-05-25/17:11:20		Column Length validation started !!
+2020-05-25/17:11:20		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/17:11:20		Column Length validation completed
+2020-05-25/17:31:25		Column Length validation started !!
+2020-05-25/17:31:25		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/17:31:25		Column Length validation completed
+2020-05-25/17:32:49		Column Length validation started !!
+2020-05-25/17:32:49		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/17:32:49		Column Length validation completed
+2020-05-25/17:33:04		Column Length validation started !!
+2020-05-25/17:33:04		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/17:33:04		Column Length validation completed
+2020-05-25/17:34:09		Column Length validation started !!
+2020-05-25/17:34:09		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/17:34:09		Column Length validation completed
+2020-05-25/17:35:28		Column Length validation started !!
+2020-05-25/17:35:28		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/17:35:28		Column Length validation completed
+2020-05-25/17:36:46		Column Length validation started !!
+2020-05-25/17:36:46		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/17:36:46		Column Length validation completed
+2020-05-25/17:38:49		Column Length validation started !!
+2020-05-25/17:38:49		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/17:38:49		Column Length validation completed
+2020-05-25/17:39:32		Column Length validation started !!
+2020-05-25/17:39:32		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/17:39:32		Column Length validation completed
+2020-05-25/17:41:56		Column Length validation started !!
+2020-05-25/17:41:56		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/17:41:56		Column Length validation completed
+2020-05-25/17:46:35		Column Length validation started !!
+2020-05-25/17:46:35		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/17:46:35		Column Length validation completed
+2020-05-25/17:50:16		Column Length validation started !!
+2020-05-25/17:50:16		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/17:50:16		Column Length validation completed
+2020-05-25/17:50:30		Column Length validation started !!
+2020-05-25/17:50:30		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/17:50:30		Column Length validation completed
+2020-05-25/17:56:27		Column Length validation started !!
+2020-05-25/17:56:27		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/17:56:27		Column Length validation completed
+2020-05-25/17:57:20		Column Length validation started !!
+2020-05-25/17:57:20		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/17:57:20		Column Length validation completed
+2020-05-25/19:31:49		Column Length validation started !!
+2020-05-25/19:31:49		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/19:31:49		Column Length validation completed
+2020-05-25/19:33:27		Column Length validation started !!
+2020-05-25/19:33:27		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/19:33:27		Column Length validation completed
+2020-05-25/19:34:14		Column Length validation started !!
+2020-05-25/19:34:15		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/19:34:15		Column Length validation completed
+2020-05-25/19:34:51		Column Length validation started !!
+2020-05-25/19:34:51		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/19:34:51		Column Length validation completed
+2020-05-25/19:35:49		Column Length validation started !!
+2020-05-25/19:35:49		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/19:35:49		Column Length validation completed
+2020-05-25/19:38:07		Column Length validation started !!
+2020-05-25/19:38:07		Invalid column length!! File moved to Bad_Raw folder
+2020-05-25/19:38:07		Column Length validation completed

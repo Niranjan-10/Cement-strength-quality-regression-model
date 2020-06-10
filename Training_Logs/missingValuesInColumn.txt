@@ -1,0 +1,58 @@
+2020-05-25/16:13:58		Missing Values Validation Started!!
+2020-05-25/16:13:58		Error Occured while moving the file :: <class 'OSError'>
+2020-05-25/16:16:30		Missing Values Validation Started!!
+2020-05-25/16:16:30		Error Occured while moving the file :: <class 'OSError'>
+2020-05-25/16:24:27		Missing Values Validation Started!!
+2020-05-25/16:24:27		Error Occured while moving the file :: <class 'OSError'>
+2020-05-25/16:30:43		Missing Values Validation Started!!
+2020-05-25/16:30:43		Error Occured while moving the file :: <class 'OSError'>
+2020-05-25/16:34:23		Missing Values Validation Started!!
+2020-05-25/16:34:23		Error Occured:: name 'listdir' is not defined
+2020-05-25/16:35:26		Missing Values Validation Started!!
+2020-05-25/16:35:26		Error Occured while moving the file :: <class 'OSError'>
+2020-05-25/16:46:48		Missing Values Validation Started!!
+2020-05-25/16:46:48		Error Occured while moving the file :: <class 'OSError'>
+2020-05-25/16:49:58		Missing Values Validation Started!!
+2020-05-25/16:49:58		Error Occured while moving the file :: <class 'OSError'>
+2020-05-25/16:50:30		Missing Values Validation Started!!
+2020-05-25/16:50:30		Error Occured while moving the file :: <class 'OSError'>
+2020-05-25/16:51:39		Missing Values Validation Started!!
+2020-05-25/16:51:39		Error Occured while moving the file :: <class 'OSError'>
+2020-05-25/16:52:57		Missing Values Validation Started!!
+2020-05-25/16:52:57		Error Occured while moving the file :: <class 'OSError'>
+2020-05-25/16:53:39		Missing Values Validation Started!!
+2020-05-25/16:53:39		Error Occured while moving the file :: <class 'OSError'>
+2020-05-25/16:54:07		Missing Values Validation Started!!
+2020-05-25/16:54:07		Error Occured while moving the file :: <class 'OSError'>
+2020-05-25/16:54:22		Missing Values Validation Started!!
+2020-05-25/16:54:22		Error Occured while moving the file :: <class 'OSError'>
+2020-05-25/16:56:02		Missing Values Validation Started!!
+2020-05-25/16:56:02		Error Occured while moving the file :: <class 'OSError'>
+2020-05-25/16:57:02		Missing Values Validation Started!!
+2020-05-25/16:57:02		Error Occured while moving the file :: <class 'OSError'>
+2020-05-25/16:59:04		Missing Values Validation Started!!
+2020-05-25/16:59:04		Error Occured while moving the file :: <class 'OSError'>
+2020-05-25/17:06:08		Missing Values Validation Started!!
+2020-05-25/17:06:08		Error Occured while moving the file :: <class 'OSError'>
+2020-05-25/17:09:27		Missing Values Validation Started!!
+2020-05-25/17:11:20		Missing Values Validation Started!!
+2020-05-25/17:31:25		Missing Values Validation Started!!
+2020-05-25/17:32:49		Missing Values Validation Started!!
+2020-05-25/17:33:04		Missing Values Validation Started!!
+2020-05-25/17:34:09		Missing Values Validation Started!!
+2020-05-25/17:35:28		Missing Values Validation Started!!
+2020-05-25/17:36:46		Missing Values Validation Started!!
+2020-05-25/17:38:49		Missing Values Validation Started!!
+2020-05-25/17:39:32		Missing Values Validation Started!!
+2020-05-25/17:41:56		Missing Values Validation Started!!
+2020-05-25/17:46:35		Missing Values Validation Started!!
+2020-05-25/17:50:16		Missing Values Validation Started!!
+2020-05-25/17:50:30		Missing Values Validation Started!!
+2020-05-25/17:56:27		Missing Values Validation Started!!
+2020-05-25/17:57:20		Missing Values Validation Started!!
+2020-05-25/19:31:49		Missing Values Validation Started!!
+2020-05-25/19:33:27		Missing Values Validation Started!!
+2020-05-25/19:34:15		Missing Values Validation Started!!
+2020-05-25/19:34:51		Missing Values Validation Started!!
+2020-05-25/19:35:49		Missing Values Validation Started!!
+2020-05-25/19:38:07		Missing Values Validation Started!!

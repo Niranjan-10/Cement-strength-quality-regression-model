@@ -1,0 +1,68 @@
+2020-05-25/16:24:27		Bad_Raw directory  delted successfully !!!
+2020-05-25/16:24:27		Good_Raw directory  delted successfully !!!
+2020-05-25/17:09:31		Good_Raw directory  delted successfully !!!
+2020-05-25/17:09:31		All Bad files are moved archive folder
+2020-05-25/17:09:31		Bad Raw Data Folder Deleted successfully!!
+2020-05-25/17:11:24		Good_Raw directory  delted successfully !!!
+2020-05-25/17:11:24		All Bad files are moved archive folder
+2020-05-25/17:11:24		Bad Raw Data Folder Deleted successfully!!
+2020-05-25/17:31:29		Good_Raw directory  delted successfully !!!
+2020-05-25/17:31:29		All Bad files are moved archive folder
+2020-05-25/17:31:29		Bad Raw Data Folder Deleted successfully!!
+2020-05-25/17:32:53		Good_Raw directory  delted successfully !!!
+2020-05-25/17:32:53		All Bad files are moved archive folder
+2020-05-25/17:32:53		Bad Raw Data Folder Deleted successfully!!
+2020-05-25/17:33:08		Good_Raw directory  delted successfully !!!
+2020-05-25/17:33:08		All Bad files are moved archive folder
+2020-05-25/17:33:08		Bad Raw Data Folder Deleted successfully!!
+2020-05-25/17:34:13		Good_Raw directory  delted successfully !!!
+2020-05-25/17:34:13		All Bad files are moved archive folder
+2020-05-25/17:34:13		Bad Raw Data Folder Deleted successfully!!
+2020-05-25/17:35:33		Good_Raw directory  delted successfully !!!
+2020-05-25/17:35:33		All Bad files are moved archive folder
+2020-05-25/17:35:33		Bad Raw Data Folder Deleted successfully!!
+2020-05-25/17:36:50		Good_Raw directory  delted successfully !!!
+2020-05-25/17:36:50		All Bad files are moved archive folder
+2020-05-25/17:36:50		Bad Raw Data Folder Deleted successfully!!
+2020-05-25/17:38:52		Good_Raw directory  delted successfully !!!
+2020-05-25/17:38:52		All Bad files are moved archive folder
+2020-05-25/17:38:52		Bad Raw Data Folder Deleted successfully!!
+2020-05-25/17:39:37		Good_Raw directory  delted successfully !!!
+2020-05-25/17:39:37		All Bad files are moved archive folder
+2020-05-25/17:39:37		Bad Raw Data Folder Deleted successfully!!
+2020-05-25/17:42:01		Good_Raw directory  delted successfully !!!
+2020-05-25/17:42:01		All Bad files are moved archive folder
+2020-05-25/17:42:01		Bad Raw Data Folder Deleted successfully!!
+2020-05-25/17:46:40		Good_Raw directory  delted successfully !!!
+2020-05-25/17:46:40		All Bad files are moved archive folder
+2020-05-25/17:46:40		Bad Raw Data Folder Deleted successfully!!
+2020-05-25/17:50:22		Good_Raw directory  delted successfully !!!
+2020-05-25/17:50:22		All Bad files are moved archive folder
+2020-05-25/17:50:22		Bad Raw Data Folder Deleted successfully!!
+2020-05-25/17:50:35		Good_Raw directory  delted successfully !!!
+2020-05-25/17:50:35		All Bad files are moved archive folder
+2020-05-25/17:50:35		Bad Raw Data Folder Deleted successfully!!
+2020-05-25/17:56:31		Good_Raw directory  delted successfully !!!
+2020-05-25/17:56:31		All Bad files are moved archive folder
+2020-05-25/17:56:31		Bad Raw Data Folder Deleted successfully!!
+2020-05-25/17:57:24		Good_Raw directory  delted successfully !!!
+2020-05-25/17:57:24		All Bad files are moved archive folder
+2020-05-25/17:57:24		Bad Raw Data Folder Deleted successfully!!
+2020-05-25/19:31:54		Good_Raw directory  delted successfully !!!
+2020-05-25/19:31:54		All Bad files are moved archive folder
+2020-05-25/19:31:54		Bad Raw Data Folder Deleted successfully!!
+2020-05-25/19:33:31		Good_Raw directory  delted successfully !!!
+2020-05-25/19:33:31		All Bad files are moved archive folder
+2020-05-25/19:33:31		Bad Raw Data Folder Deleted successfully!!
+2020-05-25/19:34:19		Good_Raw directory  delted successfully !!!
+2020-05-25/19:34:19		All Bad files are moved archive folder
+2020-05-25/19:34:19		Bad Raw Data Folder Deleted successfully!!
+2020-05-25/19:34:55		Good_Raw directory  delted successfully !!!
+2020-05-25/19:34:55		All Bad files are moved archive folder
+2020-05-25/19:34:55		Bad Raw Data Folder Deleted successfully!!
+2020-05-25/19:35:53		Good_Raw directory  delted successfully !!!
+2020-05-25/19:35:53		All Bad files are moved archive folder
+2020-05-25/19:35:53		Bad Raw Data Folder Deleted successfully!!
+2020-05-25/19:38:11		Good_Raw directory  delted successfully !!!
+2020-05-25/19:38:11		All Bad files are moved archive folder
+2020-05-25/19:38:11		Bad Raw Data Folder Deleted successfully!!

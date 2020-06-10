@@ -1,0 +1,32 @@
+2020-05-26/01:24:05		Column Length validation started !!
+2020-05-26/01:24:05		Invalid column length!! File moved to Bad_Raw folder
+2020-05-26/01:24:05		Invalid column length!! File moved to Bad_Raw folder
+2020-05-26/01:24:05		Column Length validation completed
+2020-05-26/01:28:29		Column Length validation started !!
+2020-05-26/01:28:29		Invalid column length!! File moved to Bad_Raw folder
+2020-05-26/01:28:29		Invalid column length!! File moved to Bad_Raw folder
+2020-05-26/01:28:29		Column Length validation completed
+2020-05-26/01:33:32		Column Length validation started !!
+2020-05-26/01:33:32		Invalid column length!! File moved to Bad_Raw folder
+2020-05-26/01:33:32		Column Length validation completed
+2020-05-26/14:42:20		Column Length validation started !!
+2020-05-26/14:42:20		Invalid column length!! File moved to Bad_Raw folder
+2020-05-26/14:42:20		Column Length validation completed
+2020-05-26/15:16:13		Column Length validation started !!
+2020-05-26/15:16:13		Invalid column length!! File moved to Bad_Raw folder
+2020-05-26/15:16:13		Column Length validation completed
+2020-05-29/15:40:33		Column Length validation started !!
+2020-05-29/15:40:33		Invalid column length!! File moved to Bad_Raw folder
+2020-05-29/15:40:33		Column Length validation completed
+2020-05-29/15:42:39		Column Length validation started !!
+2020-05-29/15:42:39		Invalid column length!! File moved to Bad_Raw folder
+2020-05-29/15:42:39		Column Length validation completed
+2020-05-29/15:53:21		Column Length validation started !!
+2020-05-29/15:53:21		Invalid column length!! File moved to Bad_Raw folder
+2020-05-29/15:53:21		Column Length validation completed
+2020-05-29/18:14:19		Column Length validation started !!
+2020-05-29/18:14:19		Invalid column length!! File moved to Bad_Raw folder
+2020-05-29/18:14:19		Column Length validation completed
+2020-05-29/18:23:01		Column Length validation started !!
+2020-05-29/18:23:01		Invalid column length!! File moved to Bad_Raw folder
+2020-05-29/18:23:01		Column Length validation completed

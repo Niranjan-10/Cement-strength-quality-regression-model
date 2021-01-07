@@ -31,7 +31,7 @@ jmespath==0.9.5
 joblib==0.14.1
 kiwisolver==1.2.0
 kneed==0.6.0
-lxml==4.5.0
+lxml==4.6.2
 markdown2==2.3.7
 MarkupSafe==1.1.1
 matplotlib==3.2.1
